@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 boolean success = false;
 while(!success) { success = tryAgain(); }
 System.out.println("🤲");
-
+```
 <h1 align="center">Hi 👋, I'm Omar Stahi</h1>
 <h3 align="center">I'm a software engineering student passionate about programming and web development.</h3>
 
