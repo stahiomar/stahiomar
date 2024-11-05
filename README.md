@@ -42,7 +42,7 @@ System.out.println("🤲");
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-      <img src="https://icons8.com/icon/nrY6pkbRkJCi/mariadb" height="40" alt="bootstrap logo"  />
+      <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" height="40" alt="bootstrap logo"  />
 
 
 </div>
