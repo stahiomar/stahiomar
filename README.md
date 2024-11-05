@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/omar-stahi)
 ```java
 boolean success = false;
 while(!success) { success = tryAgain(); }
