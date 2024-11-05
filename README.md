@@ -124,10 +124,3 @@ System.out.println("🤲");
   <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" height="40" alt="bootstrap logo"  />
 
 </div>
-
-###
-
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stahiomar&show_icons=true&locale=en&layout=compact" alt="stahiomar" /></p>
