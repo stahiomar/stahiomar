@@ -70,5 +70,4 @@ System.out.println("🤲");
 
 </a>
 
-    </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stahiomar&show_icons=true&locale=en&layout=compact" alt="stahiomar" /></p>
