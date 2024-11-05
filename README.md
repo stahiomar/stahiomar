@@ -61,13 +61,6 @@ System.out.println("🤲");
     <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
-    <a href="https://miro.com/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Miro_Logo.png" alt="miro" height="30" width="40" />
-</a>
-<a href="https://www.atlassian.com/software/jira" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Logo_2022.svg" alt="jira" height="30" width="40" />
-</a>
 
-</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stahiomar&show_icons=true&locale=en&layout=compact" alt="stahiomar" /></p>
