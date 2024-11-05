@@ -62,10 +62,12 @@ System.out.println("🤲");
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
     <a href="https://miro.com/" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/miroapp/miroapp-icon.svg" alt="miro" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Miro_Logo.png" alt="miro" height="30" width="40" />
 </a>
 <a href="https://www.atlassian.com/software/jira" target="blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_Logo_2022.svg" alt="jira" height="30" width="40" />
+</a>
+
 </a>
 
     </p>
