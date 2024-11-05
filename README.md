@@ -125,7 +125,7 @@
     <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stahiomar&show_icons=true&locale=en" alt="stahiomar" /></p>
+<p>&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stahiomar&show_icons=true&locale=en" alt="stahiomar" /></p>
 
 
 ```java
