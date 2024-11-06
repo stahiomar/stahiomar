@@ -87,6 +87,8 @@ System.out.println("🤲");
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/miro-2.svg" height="40" alt="miro logo"  />
 </div>
 
 <h3 align="left">Tools:</h3>
@@ -111,19 +113,15 @@ System.out.println("🤲");
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" height="40" alt="obsidian logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" height="40" alt="virt-manager logo"  />
+  <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/12552438?s=280&v=4" height="40" alt="virt-manager logo"  />
-
-
-    
-    
 </div>
 
 ###
 
 
-
 ###
-
 
 
 <h3 align="left">Databases:</h3>
@@ -133,5 +131,7 @@ System.out.println("🤲");
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" height="40" alt="bootstrap logo"  />
+  <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" height="40" alt="mariadb logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" height="40" alt="amazon s3 logo"  />
 </div>
