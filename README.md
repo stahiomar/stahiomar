@@ -139,3 +139,7 @@ System.out.println("🤲");
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" height="40" alt="amazon s3 logo"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/stahiomar/stahiomar/output/snake.svg" alt="Snake animation" />
+
+###
