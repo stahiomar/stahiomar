@@ -105,9 +105,9 @@ System.out.println("🤲");
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" height="40" alt="jupyter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="zipkin logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/11860887?v=4" height="40" alt="anaconda logo"  />
   <img width="12" />
