@@ -29,7 +29,7 @@ System.out.println("🤲");
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omar-stahi" height="30" width="40" />
     </a>
 </p>
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks and libraries:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="12" />
