@@ -39,7 +39,7 @@ System.out.println("🤲");
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://www.cleanpng.com/png-angularjs-dart-front-and-back-ends-npm-escalator-732513/5.html" height="40" alt="dot-net logo"  />
+  <img src="https://seeklogo.com/images/A/angular-icon-logo-9946B9795D-seeklogo.com.png" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
