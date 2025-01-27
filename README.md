@@ -105,7 +105,7 @@ System.out.println("🤲");
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://seeklogo.com/images/J/jupyter-logo-A91705F539-seeklogo.com.png" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="zipkin logo"  />
   <img width="12" />
@@ -118,10 +118,6 @@ System.out.println("🤲");
   <img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" height="40" alt="virt-manager logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/12552438?s=280&v=4" height="40" alt="virt-manager logo"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/D/draw-io-logo-59133ABE5E-seeklogo.com.png" height="40" alt="draw.io logo"  />
-  <img width="12" />
-  <img src="https://seeklogo.com/images/D/dialogflow-logo-534FF34238-seeklogo.com.png" height="40" alt="draw.io logo"  />
 </div>
 
 ###
