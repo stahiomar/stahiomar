@@ -118,6 +118,10 @@ System.out.println("🤲");
   <img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" height="40" alt="virt-manager logo"  />
   <img width="12" />
   <img src="https://avatars.githubusercontent.com/u/12552438?s=280&v=4" height="40" alt="virt-manager logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+
+    
 </div>
 
 ###
