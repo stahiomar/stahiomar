@@ -3,7 +3,7 @@
 
 <!--
 **stahiomar/stahiomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-I'm a software engineering student passionate about programming and web development.
+Full-Stack Software Engineer specialized in Python/Django and Java/Spring Boot, with experience building microservices, REST APIs, CI/CD pipelines, and cloud-native applications.
 
 Here are some ideas to get you started:
 - 👀 I’m interested in backend development, particularly with Spring Boot.
