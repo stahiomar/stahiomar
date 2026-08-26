@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omar Stahi</h1>
-<h3 align="center">I'm a software engineering student passionate about programming and web development.</h3>
+<h3 align="center">Full-Stack Software Engineer specialized in Python/Django and Java/Spring Boot, with experience building microservices, REST APIs, CI/CD pipelines, and cloud-native applications.
+</h3>
 
 <!--
 **stahiomar/stahiomar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
