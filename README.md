@@ -84,6 +84,8 @@ System.out.println("🤲");
   <img width="12" />
   <img src="https://cdn.svglogos.dev/logos/helm.svg" height="40" alt="helm logo"  />
   <img width="12" />
+  <img src="https://cdn.svglogos.dev/logos/terraform-icon.svg" height="40" alt="terraform logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
@@ -115,7 +117,7 @@ System.out.println("🤲");
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="40" alt="notion logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/1200px-2023_Obsidian_logo.svg.png" height="40" alt="obsidian logo"  />
+  <img src="https://cdn.svglogos.dev/logos/obsidian-icon.svg" height="40" alt="obsidian logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/fr/3/32/Staruml_logo.png" height="40" alt="virt-manager logo"  />
   <img width="12" />
@@ -140,6 +142,4 @@ System.out.println("🤲");
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=nrY6pkbRkJCi&format=png&color=000000" height="40" alt="mariadb logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" height="40" alt="amazon s3 logo"  />
 </div>
